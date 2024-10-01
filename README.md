@@ -1,1 +1,1 @@
-A simple Hangman game built with **React**, **TypeScript**, and **Vite**. The game allows players to guess a word by selecting letters, with a limited number of incorrect guesses allowed before losing the game.![Uploading hangman.PNG…]()
+A simple Hangman game built with **React**, **TypeScript**, and **Vite**. The game allows players to guess a word by selecting letters, with a limited number of incorrect guesses allowed before losing the game.
